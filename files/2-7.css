@@ -1,0 +1,134 @@
+#mainBlackDiv {
+    width: 80%;
+    background-color: #1B0E0F;
+    margin-top: 226px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 96px;
+    margin-bottom: 226px;
+}
+
+#mainWhiteDiv {
+    background-color: #fff;
+    padding: 96px;
+    text-align: center;
+}
+
+#blogSpan {
+    color: #002AFE;
+    font-size: 16px;
+    margin-bottom: 12px;
+    font-weight: 600;
+
+}
+
+#h1 {
+    font-size: 48px;
+    color: #181D27;
+    font-weight: 600 #181D27;
+    margin-bottom: 24px;
+}
+
+#headerp {
+    font-size: 20px;
+    color: #535862;
+    line-height: 30px;
+    margin-bottom: 56px;
+}
+
+#bodyBlackDiv {
+    width: 80%;
+    background-color: #1B0E0F;
+    margin: auto;
+}
+
+#bodyWhiteDiv {
+    background-color: #fff;
+    padding-top: 56px;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+
+#designerImgAndText {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 56px;
+}
+
+#designerNextDiv {
+    width: 390px;
+    margin-left: auto;
+}
+
+
+
+#designerImgDiv {
+    width: 430px;
+    margin-right: 50px;
+}
+
+.vertical {
+    vertical-align: middle;
+}
+
+.pStyles {
+    font-size: 16px;
+    color: #535862;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.imgStyles {
+    width: 100%;
+    height: 462px;
+}
+
+.h2styles {
+    font-size: 24px;
+    color: #181D27;
+    font-weight: 600;
+}
+
+.avatarStyles {
+    width: 130px;
+    height: 40px;
+}
+
+.mainDivstyles {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 56px;
+}
+
+.spanStyles {
+    font-size: 14px;
+    color: #6941C6;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#codeImgDiv {
+    text-align: left;
+    width: 430px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#codeTextDiv {
+    text-align: left;
+    width: 390px
+}
+
+#imgDiv {
+    width: 430px;
+    text-align: left;
+}
+
+#imgNextText {
+    width: 390px;
+    text-align: left;
+    margin-left: 50px;
+}
